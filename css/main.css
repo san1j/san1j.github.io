@@ -297,7 +297,16 @@ ul li {
 /* ------------------------------------------------------------------------------
 	Banner
 -------------------------------------------------------------------------------*/
-
+#particles-js {
+      position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+}
+#particle_container{
+    z-index: 9999;
+    position:relative;
+}
 .banner {
 	background-color: #65349c;
 	min-height: 750px;
