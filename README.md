@@ -1,5 +1,5 @@
 # san1j.github.io
 My Personal Website
 
-# Credits
+### Credits
 [particle.js](https://vincentgarreau.com/particles.js/) by Vincent Garreau 
